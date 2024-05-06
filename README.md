@@ -23,5 +23,8 @@ Um teclado mecânico é dividido em algumas partes, para o nosso projeto faremos
   * Diodo 1N4148 (para o número de teclas que você tiver). 
   * Um ferro de solda. 
   * Fios para que possa fazer as ligações.
+
+    <img width=400px src="/Images/kbwire_feat.png">
+    
 - Plate: Essa é a parte que vai segurar os seus switches no lugar.
 - Bottom Case: É o acabamento do seu teclado para que os fios não fiquem soltos
