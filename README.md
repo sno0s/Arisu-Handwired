@@ -11,4 +11,11 @@ Primeiramente, estou documentando este repositório para que outras pessoas poss
 Um teclado mecânico é dividido em algumas partes, para o nosso projeto faremos um pouco diferente: 
 
 
-- Keycaps: São as teclas do seu teclado, cada um tem um estilo então é importante que você escolha priorizando isso, eu escolhi teclas brancas com letras em japonês. 
+- Keycaps: São as teclas do seu teclado, cada um tem um estilo então é importante que você escolha priorizando isso, eu escolhi teclas brancas com letras em japonês.
+- Switches: São os acionadores das teclas, ele que vai fazer o trabalho de enviar a informação de que uma tecla foi pressionada, sendo assim, temos alguns tipos de switches que também podem variar de acordo com a sua preferencia, eu escolhi esses:
+- PCB: Essa é a placa mãe do seu teclado, neste projeto não faremos uma PCB, mas sim um trabalho à mão, no final das contas funciona do mesmo jeito, porém você vai precisar de alguns componentes:
+  * Diodo 1N4148 (para o número de teclas que você tiver). 
+  * Um ferro de solda. 
+  * Fios para que possa fazer as ligações.
+- Plate: Essa é a parte que vai segurar os seus switches no lugar.
+- Bottom Case: É o acabamento do seu teclado para que os fios não fiquem soltos
