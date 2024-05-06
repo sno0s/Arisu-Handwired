@@ -26,7 +26,7 @@ Um teclado mecânico é dividido em algumas partes, para o nosso projeto faremos
 
     <img width=400px src="/Images/kbwire_feat.png">
 
-    >Obs: Feito isso, caso queira, você pode fazer uma capa ou logo do projeto para colocar após o título.
+    >Obs: O teclado feito na foto não é o meu, link relativo: https://hackaday.com/2019/09/27/the-zen-of-mechanical-keyboard-wiring/
     
 - Plate: Essa é a parte que vai segurar os seus switches no lugar.
 - Bottom Case: É o acabamento do seu teclado para que os fios não fiquem soltos
