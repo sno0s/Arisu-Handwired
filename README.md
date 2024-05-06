@@ -16,6 +16,9 @@ Um teclado mecânico é dividido em algumas partes, para o nosso projeto faremos
   <img width=400px src="/Images/keycap-set.jpg">
   
 - Switches: São os acionadores das teclas, ele que vai fazer o trabalho de enviar a informação de que uma tecla foi pressionada, sendo assim, temos alguns tipos de switches que também podem variar de acordo com a sua preferencia, eu escolhi esses:
+
+   <img width=400px src="/Images/banana-switches.png">
+   
 - PCB: Essa é a placa mãe do seu teclado, neste projeto não faremos uma PCB, mas sim um trabalho à mão, no final das contas funciona do mesmo jeito, porém você vai precisar de alguns componentes:
   * Diodo 1N4148 (para o número de teclas que você tiver). 
   * Um ferro de solda. 
