@@ -47,6 +47,6 @@ Optei por fazer o layout “Arisu/Alice”, não é um formato muito convenciona
 
 >Link: http://www.keyboard-layout-editor.com
 
-<img width=400px src="/Images/layout-editor1.png">
+<img width=700px src="/Images/layout-editor1.png">
 
 
