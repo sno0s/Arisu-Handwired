@@ -14,7 +14,7 @@ Um teclado mecânico é dividido em algumas partes, para o nosso projeto faremos
 - Keycaps: São as teclas do seu teclado, cada um tem um estilo então é importante que você escolha priorizando isso, eu escolhi teclas brancas com letras em japonês.
   
   <img width=400px src="/Images/keycap-set.jpg">
-  
+  >Obs: Ajazz x Huano banana switches
 - Switches: São os acionadores das teclas, ele que vai fazer o trabalho de enviar a informação de que uma tecla foi pressionada, sendo assim, temos alguns tipos de switches que também podem variar de acordo com a sua preferencia, eu escolhi esses:
 
    <img width=400px src="/Images/banana-switches.png">
@@ -38,4 +38,13 @@ Um teclado mecânico é dividido em algumas partes, para o nosso projeto faremos
 
 
 
-# Layout
+# :pushpin: Layout
+
+O layout vai definir tudo o que você vai precisar em questão de material para a construção do seu primeiro teclado, eu usei o site “Keyboard Layout Editor” para esquematizar do jeito que eu achasse mais agradável. 
+
+
+Optei por fazer o layout “Arisu/Alice”, não é um formato muito convencional de teclado porém a estética e ergonomia me chamaram muito a atenção. 
+
+>Link: http://www.keyboard-layout-editor.com 
+
+
