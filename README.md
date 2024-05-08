@@ -49,4 +49,12 @@ Optei por fazer o layout “Arisu/Alice”, não é um formato muito convenciona
 
 <img width=700px src="/Images/layout-editor1.png">
 
+Ao abrir o site vai se deparar com um modelo de teclado já pronto, o site oferece outros modelos pré-prontos que podem ser editados da maneira que quiser, confesso que eu tive um pouco de dificuldade inicialmente mas o resultado final ficou ótimo.
+
+<img width=700px src="/Images/layout-editor2.png">
+
+Após isso, o site transforma esse modelo pré pronto em linhas programáveis (RAW DATA): 
+
+<img width=700px src="/Images/raw-data.png">
+
 
