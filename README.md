@@ -58,4 +58,26 @@ Após isso, o site transforma esse modelo pré pronto em linhas programáveis (R
 
 <img width=700px src="/Images/raw-data.png">
 
+# :pushpin: Plate
+
+As informações do teclado feitas no site anterior serão colocadas aqui:  
+>Link: http://builder.swillkb.com
+
+<img width=700px src="/Images/raw-data.png">
+
+Selecione as opções de switch e estabilizadores, eu sempre recomendo os “Cherry MX” junto dos estabilizadores “Cherry” ou “Cherry/Costar”.
+
+<img width=700px src="/Images/raw-data.png">
+
+Quando tudo estiver pronto, clique em ”DRAW MY CAD” e você terá todas as medidas necessárias para o plate, baixe em DXF (ou no formato que ficar melhor de trabalhar).
+
+<img width=700px src="/Images/raw-data.png">
+
+Com esse modelo, agora é só modelar no programa que você preferir, eu usei o “SolidWorks”. 
+
+No “SolidWorks”, o arquivo DXF fez um desenho exato das medidas do plate, eu só precisei colocar a espessura do mesmo, eu recomendo usar 2mm. 
+
+
+
+
 
