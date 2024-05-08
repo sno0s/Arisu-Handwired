@@ -78,6 +78,8 @@ Com esse modelo, agora é só modelar no programa que você preferir, eu usei o 
 
 No “SolidWorks”, o arquivo DXF fez um desenho exato das medidas do plate, eu só precisei colocar a espessura do mesmo, eu recomendo usar 2mm. 
 
+<img width=700px src="https://prnt.sc/AId6HCqPj2Ao">
+
 
 
 
