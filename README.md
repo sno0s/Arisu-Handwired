@@ -1,5 +1,6 @@
 <img src="/Images/Capa.png">
-# :pushpin: Introdução
+# 📌 Introdução
+
 <br>
 Arisu Handwired. 
 
