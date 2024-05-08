@@ -45,6 +45,8 @@ O layout vai definir tudo o que você vai precisar em questão de material para 
 
 Optei por fazer o layout “Arisu/Alice”, não é um formato muito convencional de teclado porém a estética e ergonomia me chamaram muito a atenção. 
 
->Link: http://www.keyboard-layout-editor.com 
+>Link: http://www.keyboard-layout-editor.com
+
+<img width=400px src="/Images/layout-editor1.png">
 
 
